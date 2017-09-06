@@ -1,0 +1,61 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "user": "Mollie",
+      "profile_img": "https://a0.muscache.com/im/pictures/e87d91ad-f420-428b-8729-6fd9066034da.jpg?aki_policy=profile_x_medium",
+      "date": "August 2017",
+      "review": "This place was so amazing! The balcony was so relaxing and the rooftop pool had spectacular views. The condo itself was just as perfect. we were greeted as soon as we arrived and they were able to answer any question and phone call I had. I felt like I was at home! The only thing I would mention is that there is construction going on right across the street. It begins about 7-730 am and it's mighty hard to sleep through. Other than that it could not have been any better!"
+    },
+    {
+      "id": 2,
+      "user": "Catherine",
+      "profile_img": "https://a0.muscache.com/im/users/26858603/profile_pic/1422474775/original.jpg?aki_policy=profile_x_medium",
+      "date": "June 2017",
+      "review": "Great location and overall the condo was beautiful and had a great scenic view. It was very close to the beach and close to everything. Plenty of restaurants around and overall a safe neighborhood. Didn't have a problem walking late at night. Only thing is the construction that is going on across the street, which will probably wake you up early, but that wasn't a big deal. Easy communication with Katia and Margasaret, who checked us in and showed us around the condo. Overall, I would recommend the place and would stay here again."
+    },
+    {
+      "id": 3,
+      "user": "Curt",
+      "profile_img": "https://a0.muscache.com/im/users/4769027/profile_pic/1358730741/original.jpg?aki_policy=profile_x_medium",
+      "date": "June 2017",
+      "review": "Great location right by Green Chairs and Mantamar! Very gay friendly neighborhood."
+    },
+    {
+      "id": 4,
+      "user": "Seth",
+      "profile_img": "https://a0.muscache.com/im/users/2640741/profile_pic/1340838463/original.jpg?aki_policy=profile_x_medium",
+      "date": "April 2017",
+      "review": "This is a great location. It's close to the beach and restaurants with a wonderful view. The rooftop pool is wonderful and the building is well maintained. If you plan on lounging at the condo during the day or sleeping in, just be aware of the construction noise."
+    },
+    {
+      "id": 5,
+      "user": "Stephen",
+      "profile_img": "https://a0.muscache.com/im/pictures/8267a0da-57f9-4607-9c7d-f468c4962fde.jpg?aki_policy=profile_x_medium",
+      "date": "March 2017",
+      "review": "amazing location we walked right down to beach, incredible view close to all restaurants and shops. I loved this place we spent two weeks there and I did not want to come home. Beautiful quite rooftop pool (PHONE NUMBER HIDDEN)"
+    },
+    {
+      "id": 6,
+      "user": "Bekah",
+      "profile_img": "https://a0.muscache.com/im/pictures/0572d6cc-f4d0-4782-ba66-7d10e5ffea10.jpg?aki_policy=profile_x_medium",
+      "date": "January 2017",
+      "review": "The condo looks even more beautiful than the pictures!! Great location, walking distance to all shops, restaurants, the beach and the pier! Also our host was amazing and very easy to get in touch with, she helped us get tickets for Rhythms of the Night as well, and that was our favorite part of the trip!! 10/10 recommend, hopefully we can come back some day!",
+      "response": [
+        {
+          "user": "Luxury Villas",
+          "date": "January 2017",
+          "profile_img": "https://a0.muscache.com/im/pictures/5c660f61-f3f0-4fba-a1bb-7a6ca78556d2.jpg?aki_policy=profile_x_medium",
+          "message": "Thank you we will make sure to take care of this issue immediately. We look forward to host you in the future."
+        }
+      ],
+    },
+    {
+      "id": 7,
+      "user": "Oscar",
+      "profile_img": "https://a0.muscache.com/im/pictures/614362b6-dc77-445c-a512-c1acf14ffb44.jpg?aki_policy=profile_x_medium",
+      "date": "December 2016",
+      "review": "The perfect PV condo. Ideal location, gorgeous views, awesome rooftop pool. I will definitely stay here again."
+    }
+  ]
+}
